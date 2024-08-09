@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+}
+input{
+    margin: auto;
+    width: 1250px;
+    padding: 1px;
+    padding-right: 100px;
+    border-radius: 8px 2px;
+}
+
+button {
+    background-color: rgb(255, 255, 255);
+    padding: 12px;
+    position: absolute; 
+    margin: auto;
+    border-radius: 0 5px  5px 0;
+    color: rgb(218, 27, 27);
+    cursor: pointer;
+    }
+
+button:hover {
+    background-color:red;
+
+}
+
+.cajaBorde1 {
+    border-style: solid;
+    height: 50px;
+    min-height: 10px;
+    max-width: 120rem;
+    
+}.cajaBorde2 {
+    border-style: solid;
+    height: 50px;
+    min-height: 10px;
+    
+}
+.cajaBorde3 {
+    border-style: solid;
+    height: 50px;
+    min-height: 50px;
+    
+}
+
+.cajaBorde4 {
+    border-style: solid;
+    height: 50px;
+    min-height: 50px;
+
+}
+.cajaBorde5 {
+    border-style: solid;
+    height: 50px;
+    min-height: 50px;
+}
+.cajaBorde6 {
+    border-style: solid;
+    border-color: rgb(3, 1, 1);
+    height: 50px;
+    min-height: 800px;
+    
+}
+.cajaBorde7{
+    border-style: solid;
+    border-color: rgb(3, 1, 1);
+    height: 350px;
+    min-height: 800px;
+    
+
+}
+.cajaBorde8{
+    
+    border-style: solid;
+    border-color: rgb(3, 1, 1);
+    height: 350px;
+    min-height: 50px;
+    margin: 10px;
+
+}
+.cajaineterna1 {
+    border-style: solid;
+    border-color: rgb(3, 1, 1);
+    height: 500px;
+    width: 200;
+    height: 800;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.cajaineterna2 {
+    border-style: solid;
+    border-color: rgb(3, 1, 1);
+    height: 500px;
+    width: 20;
+    height: 80;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+ .cajaineterna3 {
+    border-style: solid;
+    border-color: rgb(3, 1, 1);
+    height: 500px;
+    width: 20;
+    height: 80;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+ .cajaineterna4 {
+    border-style: solid;
+    border-color: rgb(3, 1, 1);
+    height: 500px;
+    width: 20;
+    height: 80;
+    margin-left: 5px;
+    margin-right: 5px;
+  
+}
+.cajaineterna5  {
+    border-style: solid;
+    border-color: rgb(3, 1, 1);
+    height: 500px;
+    width: 20;
+    height: 80;
+    margin-left: 5px;
+    margin-right: 5px;
+  
+}
+ .cajaineterna6 {
+    border-style: solid;
+    border-color: rgb(3, 1, 1);
+    height: 500px;
+    width: 20;
+    height: 80;
+    margin-left: 5px;
+    margin-right: 5px;
+  
+}
+
